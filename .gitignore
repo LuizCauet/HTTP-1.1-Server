@@ -1,0 +1,15 @@
+.0
+.pyc
+.bak
+.d
+.out
+.log
+.bbl
+.blg
+.aux
+cse130
+cse130.pub
+.o
+httpserver
+.txt
+config.json

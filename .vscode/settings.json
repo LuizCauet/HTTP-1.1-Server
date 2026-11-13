@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "request_handler.h": "c"
+    }
+}
